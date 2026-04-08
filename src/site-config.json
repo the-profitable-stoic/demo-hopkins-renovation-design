@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Hopkins Renovation & Design",
+    "phone": "14045639716",
+    "category": "general-contractor",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-red-charge",
+      "categoryGroup": "general-contractor",
+      "name": "Red Charge",
+      "recipeFile": "general-contractor/red-charge.astro",
+      "colors": {
+        "primary": "#1E3A5F",
+        "primaryDark": "#0F1D30",
+        "primaryLight": "#c7ced7",
+        "secondary": "#1b3456",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1E3A5F",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Atlanta's Trusted Home Transformation Experts",
+      "heroSubline": "Hopkins Renovation & Design: Bringing your vision to life with quality craftsmanship and exceptional service. Serving Atlanta and surrounding areas.",
+      "aboutTitle": "Crafting Atlanta Homes, Building Lasting Relationships",
+      "aboutText": [
+        "Hopkins Renovation & Design began with a simple goal: to provide Atlanta homeowners with honest, reliable, and high-quality renovation services. Founded by a third-generation contractor with deep roots in the community, we understand the unique challenges and opportunities presented by Atlanta's diverse housing stock.",
+        "Our approach is built on clear communication, meticulous planning, and a commitment to exceeding expectations. We believe in transparency, keeping you informed every step of the way. From initial consultation to final walkthrough, your satisfaction is our top priority.",
+        "We're proud to be a part of the Atlanta community, and we're dedicated to giving back. We actively support local organizations and strive to minimize our environmental impact through responsible construction practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Atlanta's architecture and climate challenges."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, detailed estimates with no hidden fees—ever."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled professionals dedicated to superior workmanship."
+        },
+        {
+          "title": "Dedicated Project Management",
+          "description": "Ensuring your project stays on time and within budget."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact us today for a free consultation and let's discuss your renovation dreams."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Atlanta home.",
+        "description": "Is your kitchen outdated, cramped, or simply not meeting your needs? Hopkins Renovation & Design specializes in creating beautiful and functional kitchens tailored to your lifestyle. From minor cosmetic updates to complete gut renovations, we handle every aspect of the project with precision and care.\n\nWe start with a thorough consultation to understand your vision, budget, and priorities. Our designers will work with you to create a custom plan that maximizes space, enhances functionality, and reflects your personal style. We source high-quality materials and appliances from trusted suppliers, ensuring durability and lasting beauty.\n\nOur skilled craftsmen handle all aspects of the renovation, including cabinet installation, countertop fabrication, plumbing, electrical work, and flooring. We pay close attention to detail and ensure that every element is perfectly executed. We understand the importance of minimizing disruption to your daily life, so we work efficiently and keep the job site clean and organized. Whether you dream of a modern, minimalist kitchen or a cozy, traditional space, Hopkins Renovation & Design can bring your vision to life.",
+        "process": [
+          "Step 1: Initial Consultation & Design Planning",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Demolition & Construction",
+          "Step 4: Finishing Touches & Final Walkthrough"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetic Appeal",
+          "Customized to Your Lifestyle"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 6-12 weeks. We'll provide a detailed schedule upfront and keep you informed throughout the process."
+          },
+          {
+            "question": "Do I need to move out during the renovation?",
+            "answer": "While it's not always necessary, it can be more comfortable to relocate during the demolition and major construction phases. We'll work with you to minimize disruption and keep essential areas accessible."
+          },
+          {
+            "question": "What is the cost of a kitchen remodel in Atlanta?",
+            "answer": "Kitchen remodel costs in Atlanta will vary widely based on size, materials, and complexity. We offer free consultations to provide accurate, detailed estimates."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a relaxing and luxurious bathroom retreat.",
+        "description": "Transform your outdated bathroom into a spa-like oasis with Hopkins Renovation & Design. Whether you're looking for a simple refresh or a complete overhaul, we have the expertise to create a bathroom that meets your needs and exceeds your expectations.\n\nWe'll guide you through every step of the process, from design and material selection to installation and finishing touches. Our designers will help you choose the perfect fixtures, tiles, and finishes to create a space that reflects your personal style. We handle all aspects of the renovation, including plumbing, electrical work, tiling, and fixture installation.\n\nWe understand the importance of functionality and efficiency, so we'll work with you to optimize the layout and storage space in your bathroom. Whether you need a larger shower, a soaking tub, or more counter space, we can create a custom solution that meets your needs. We use only high-quality materials and employ skilled craftsmen to ensure that your bathroom remodel is built to last. In Atlanta, moisture is a major factor, so we make sure to waterproof everything correctly.",
+        "process": [
+          "Step 1: Design Consultation & Space Planning",
+          "Step 2: Fixture & Material Selection",
+          "Step 3: Demolition & Plumbing/Electrical Updates",
+          "Step 4: Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Comfort",
+          "Modernized Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "Can you help me with the design of my new bathroom?",
+            "answer": "Absolutely! We have a team of experienced designers who will work with you to create a design that meets your needs and reflects your style."
+          },
+          {
+            "question": "How long does a bathroom remodel typically take?",
+            "answer": "The timeline depends on the scope of the project, but most bathroom remodels take between 3-8 weeks."
+          },
+          {
+            "question": "What permits are required for a bathroom remodel?",
+            "answer": "Permit requirements vary depending on the scope of the project. We will handle all necessary permits to ensure that your renovation is compliant with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Unlock the hidden potential of your basement with our finishing services.",
+        "description": "Transform your unfinished basement into a valuable living space with Hopkins Renovation & Design. A finished basement can add significant value to your home and provide much-needed space for a home theater, playroom, home office, or extra bedrooms.\n\nWe handle every aspect of the basement finishing process, from framing and insulation to electrical and plumbing. We'll ensure that your finished basement is comfortable, functional, and up to code. Atlanta basements can be damp, so moisture control is a major factor in a successful basement finishing project.\n\nOur design team will work with you to create a layout that maximizes space and meets your specific needs. We'll help you choose the right flooring, lighting, and finishes to create a space that you'll love. We use only high-quality materials and employ skilled craftsmen to ensure that your basement finish is built to last.",
+        "process": [
+          "Step 1: Design Consultation & Space Planning",
+          "Step 2: Framing, Insulation, & Moisture Control",
+          "Step 3: Electrical & Plumbing Installation",
+          "Step 4: Finishing & Detailing"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Increased Home Value",
+          "Customized to Your Needs",
+          "Improved Comfort"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to finish a basement in Atlanta?",
+            "answer": "The cost depends on the size of the basement and the complexity of the project. We offer free consultations to provide accurate estimates."
+          },
+          {
+            "question": "Do I need a permit to finish my basement?",
+            "answer": "Yes, a permit is required for most basement finishing projects. We will handle all necessary permits to ensure compliance with local codes."
+          },
+          {
+            "question": "How long does it take to finish a basement?",
+            "answer": "The timeline depends on the scope of the project, but most basement finishes take between 4-12 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Extend your living space outdoors with a custom deck or patio.",
+        "description": "Enhance your outdoor living space with a custom deck or patio from Hopkins Renovation & Design. We design and build beautiful and functional decks and patios that complement your home and lifestyle. Whether you're looking for a cozy space for relaxing or a large area for entertaining, we can create the perfect outdoor space for you.\n\nWe use only high-quality materials and employ skilled craftsmen to ensure that your deck or patio is built to last. We handle all aspects of the project, from design and permitting to construction and finishing. We offer a wide range of decking materials, including wood, composite, and PVC. For patios, we install pavers, stone, and concrete.\n\nOur designers will work with you to create a design that meets your needs and reflects your style. We'll consider factors such as sun exposure, drainage, and traffic flow to create a space that is both beautiful and functional. We're familiar with the Atlanta climate, and how it affects the longevity of outdoor structures.",
+        "process": [
+          "Step 1: Design Consultation & Site Assessment",
+          "Step 2: Material Selection & Permitting",
+          "Step 3: Construction & Installation",
+          "Step 4: Finishing & Sealing"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Increased Home Value",
+          "Enhanced Aesthetic Appeal",
+          "Perfect for Entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for decks in Atlanta's climate?",
+            "answer": "Composite decking is a popular choice due to its durability and resistance to moisture and insects. Pressure-treated wood is another option, but it requires regular maintenance."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "Yes, a permit is typically required for deck and patio construction. We will handle all necessary permits to ensure compliance with local codes."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The timeline depends on the size and complexity of the project, but most decks and patios take between 2-6 weeks to build."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-renovations",
+        "name": "Whole House Renovations",
+        "shortDescription": "Transform your entire home with our comprehensive renovation services.",
+        "description": "Dreaming of a completely transformed home? Hopkins Renovation & Design specializes in whole house renovations, turning outdated houses into modern, functional, and beautiful living spaces. We handle every aspect of the renovation process, from initial design to final finishing touches.\n\nOur experienced team will work closely with you to understand your vision, needs, and budget. We'll create a comprehensive plan that addresses all aspects of the renovation, including structural changes, electrical and plumbing upgrades, and cosmetic improvements. We understand that whole house renovations can be disruptive, so we prioritize clear communication, efficient project management, and minimal inconvenience to your family.\n\nWe use only high-quality materials and employ skilled craftsmen to ensure that your renovation is built to last. Whether you're looking to update your kitchen, bathrooms, flooring, or entire layout, Hopkins Renovation & Design can bring your vision to life. We're experienced with the unique challenges of renovating older Atlanta homes, from Craftsman bungalows to mid-century ranches.",
+        "process": [
+          "Step 1: Comprehensive Consultation & Design",
+          "Step 2: Detailed Planning & Budgeting",
+          "Step 3: Demolition & Structural Work",
+          "Step 4: Installation & Finishing Touches"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetic Appeal",
+          "Customized to Your Lifestyle"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house renovation typically take?",
+            "answer": "The timeline depends on the scope of the project, but most whole house renovations take between 3-9 months."
+          },
+          {
+            "question": "Will I need to move out during the renovation?",
+            "answer": "In most cases, it is necessary to move out during a whole house renovation due to the extensive work involved."
+          },
+          {
+            "question": "How much does a whole house renovation cost in Atlanta?",
+            "answer": "The cost varies depending on the size and scope of the project. We offer free consultations to provide accurate, detailed estimates."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Interior & Exterior Painting",
+        "shortDescription": "Refresh and protect your home with our professional painting services.",
+        "description": "Give your home a fresh new look with Hopkins Renovation & Design's professional painting services. Whether you're looking to update your interior walls or protect your exterior from the elements, we have the expertise to deliver exceptional results.\n\nWe use only high-quality paints and employ skilled painters to ensure a smooth, even finish. We handle all aspects of the painting process, from surface preparation and priming to painting and cleanup. We pay close attention to detail and ensure that every surface is properly prepped and painted for long-lasting beauty and protection.\n\nFor exterior painting, we understand the unique challenges of Atlanta's climate. We'll choose the right paint and techniques to protect your home from the sun, rain, and humidity. For interior painting, we'll help you choose the perfect colors to create the desired ambiance in each room. We take care to protect your furniture and belongings during the painting process.",
+        "process": [
+          "Step 1: Surface Preparation & Priming",
+          "Step 2: Painting & Application",
+          "Step 3: Inspection & Touch-Ups",
+          "Step 4: Cleanup & Final Walkthrough"
+        ],
+        "benefits": [
+          "Enhanced Aesthetic Appeal",
+          "Increased Home Value",
+          "Protection from the Elements",
+          "Improved Air Quality (with low-VOC paints)"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to paint a house?",
+            "answer": "The timeline depends on the size of the house and the scope of the project. We will provide a detailed schedule upfront."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use only high-quality paints from trusted brands like Sherwin-Williams and Benjamin Moore."
+          },
+          {
+            "question": "Do you offer color consultations?",
+            "answer": "Yes, we offer color consultations to help you choose the perfect colors for your home."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Marietta",
+        "slug": "marietta-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design is proud to offer our expert general contractor services to the residents of Marietta, Georgia. Known for its charming town square and historic landmarks, Marietta is a vibrant community with a diverse range of homes, many dating back to the 1960s and 70s. We understand the unique challenges and opportunities presented by these established subdivisions, and we're committed to providing renovation and design solutions that enhance the character and value of your home.\n\nFrom kitchen and bathroom remodels to whole-house renovations, we have the experience and expertise to handle any project, big or small. We're also well-versed in the specific needs of homes in Marietta, including addressing issues related to the hot and humid Georgia summers. We prioritize energy efficiency and durable materials to ensure your renovations stand the test of time.",
+        "localContext": "Marietta features many established neighborhoods built in the 1960s and 70s. Hopkins Renovation & Design provides services to help homeowners modernize their spaces while respecting the original character.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Kennesaw",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Roswell",
+        "slug": "roswell-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design provides expert general contractor services to homeowners in Roswell, Georgia. Roswell is characterized by its upscale subdivisions developed primarily in the 1980s and 90s. We understand the architectural styles prevalent in these neighborhoods and tailor our renovation and design services to complement them.\n\nWhether you're looking to update your kitchen, create a luxurious master suite, or transform your outdoor living space, we have the skills and resources to bring your vision to life. We also understand the importance of energy efficiency and sustainability, and we can help you make your home more comfortable and environmentally friendly. We take pride in delivering exceptional results that exceed your expectations.",
+        "localContext": "Roswell presents a mix of upscale homes built in the 1980s and 90s. Hopkins Renovation & Design has extensive experience renovating similar properties.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Marietta",
+          "Sandy Springs"
+        ]
+      },
+      {
+        "city": "Alpharetta",
+        "slug": "alpharetta-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design proudly serves the Alpharetta, GA community with top-notch general contracting services. Alpharetta is known for its upscale developments built primarily in the 1990s and 2000s. We specialize in modernizing these homes to meet the evolving needs and tastes of today's homeowners.\n\nWe offer a comprehensive range of services, from kitchen and bath remodels to basement finishing and whole-house renovations. We understand the unique challenges and opportunities presented by Alpharetta's housing stock, and we're committed to providing innovative and stylish solutions that enhance your home's value and appeal. Our team is dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Alpharetta is characterized by upscale developments built in the 1990s and 2000s. Hopkins Renovation & Design is familiar with the styles and construction of these homes.",
+        "nearbyAreas": [
+          "Roswell",
+          "Johns Creek",
+          "Milton"
+        ]
+      },
+      {
+        "city": "Johns Creek",
+        "slug": "johns-creek-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design is a trusted general contractor in Johns Creek, Georgia. Johns Creek features many upscale subdivisions developed in the 1990s and 2000s. We focus on providing high-quality renovation and design services that cater to the specific needs of these homes.\n\nFrom creating custom kitchens and bathrooms to expanding living spaces and adding outdoor features, we have the expertise to transform your home into the space of your dreams. We work closely with our clients to understand their vision and deliver results that exceed their expectations. We also understand the importance of energy efficiency and sustainability, and we can help you make your home more comfortable and environmentally friendly.",
+        "localContext": "Johns Creek is known for upscale subdivisions constructed in the 1990s and 2000s. Hopkins Renovation & Design understands the common features and potential renovation needs of these homes.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Suwanee",
+          "Duluth"
+        ]
+      },
+      {
+        "city": "Kennesaw",
+        "slug": "kennesaw-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design provides expert renovation and design services to the residents of Kennesaw, Georgia. Kennesaw is a growing city with many suburban developments built in the 1980s and 90s. We specialize in updating and modernizing these homes to meet the needs of today's families.\n\nWe offer a wide range of services, including kitchen and bathroom remodels, basement finishing, and whole-house renovations. We understand the specific challenges and opportunities presented by Kennesaw's housing stock, and we're committed to providing cost-effective and high-quality solutions. We also pride ourselves on our exceptional customer service and attention to detail.",
+        "localContext": "Kennesaw is characterized by suburban developments from the 1980s and 90s. Hopkins Renovation & Design specializes in updating these homes with modern amenities.",
+        "nearbyAreas": [
+          "Marietta",
+          "Acworth",
+          "Woodstock"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design is delighted to offer our services to the vibrant community of Smyrna, GA. Smyrna is known for its blend of historic charm and modern development, with a variety of housing styles. We are experienced in working with homes of all ages and styles in Smyrna, providing tailored renovation solutions.\n\nOur team handles everything from kitchen and bath remodels to whole-house renovations, ensuring quality craftsmanship and attention to detail. We understand the local climate and its impact on homes, and we use durable, energy-efficient materials to ensure lasting results. Hopkins Renovation & Design is committed to transforming your vision into reality.",
+        "localContext": "Smyrna features a diverse mix of housing styles, from historic homes to newer developments. Hopkins Renovation & Design is experienced in working with a wide range of architectural styles.",
+        "nearbyAreas": [
+          "Marietta",
+          "Vinings",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Sandy Springs",
+        "slug": "sandy-springs-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design proudly serves the Sandy Springs area, offering exceptional general contracting services. Sandy Springs is known for its upscale homes and established neighborhoods, with a mix of architectural styles. We specialize in providing custom renovation and design solutions that enhance the beauty and value of your home.\n\nWhether you're looking to update your kitchen, create a luxurious master suite, or transform your outdoor living space, our team has the expertise to bring your vision to life. We understand the unique needs of Sandy Springs homeowners and are committed to delivering exceptional results that exceed your expectations. We prioritize quality materials and craftsmanship to ensure lasting beauty and functionality.",
+        "localContext": "Sandy Springs features a mix of upscale homes and established neighborhoods. Hopkins Renovation & Design provides services that enhance the beauty and value of these properties.",
+        "nearbyAreas": [
+          "Roswell",
+          "Dunwoody",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Dunwoody",
+        "slug": "dunwoody-ga",
+        "state": "GA",
+        "content": "Hopkins Renovation & Design is a trusted general contractor serving Dunwoody, Georgia. Dunwoody features a mix of established neighborhoods and newer developments, offering a variety of housing styles. We provide tailored renovation and design solutions to meet the unique needs of Dunwoody homeowners.\n\nFrom kitchen and bathroom remodels to whole-house renovations, we have the experience and expertise to handle any project, big or small. We work closely with our clients to understand their vision and deliver results that exceed their expectations. Our team is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Dunwoody offers a mix of established neighborhoods and newer developments. Hopkins Renovation & Design caters to the diverse renovation needs of homeowners in the area.",
+        "nearbyAreas": [
+          "Sandy Springs",
+          "Roswell",
+          "Doraville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Hopkins Renovation & Design transformed our outdated kitchen into a dream space! The team was professional, communicative, and paid incredible attention to detail. We especially appreciated their help with selecting the perfect countertops and backsplash. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "service": "Bathroom Remodeling",
+        "text": "We hired Hopkins to remodel our master bathroom, and we're very happy with the results. The new shower is amazing, and the tile work is beautiful. There were a couple of minor delays, but the team was always responsive and addressed our concerns promptly.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Hopkins Renovation & Design did an excellent job finishing our basement. They turned an unused space into a functional and comfortable living area for our family. The project was completed on time and within budget. We would definitely use them again.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "We love our new deck! Hopkins Renovation & Design designed and built a beautiful deck that's perfect for entertaining. The quality of the workmanship is outstanding, and the team was a pleasure to work with. They really understood what we wanted and delivered a fantastic result.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 4,
+        "service": "Interior Painting",
+        "text": "Hopkins Renovation & Design painted the interior of our home, and we're very pleased with the results. The painters were professional, efficient, and respectful of our property. The colors look great, and the finish is smooth and even. Would recommend for anyone in Atlanta needing painting services.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Whole House Renovation",
+        "text": "We hired Hopkins Renovation & Design for a whole house renovation, and they exceeded our expectations. They transformed our outdated house into a modern and stylish home. The team was professional, organized, and dedicated to delivering a high-quality result. They helped us navigate all the design choices, and were very patient with us.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Atlanta Renovation & Design | Hopkins",
+        "description": "Hopkins Renovation & Design: Atlanta's trusted contractor for kitchen, bath, basement remodels & more. Quality craftsmanship, local expertise."
+      },
+      "about": {
+        "title": "About Hopkins Renovation & Design",
+        "description": "Learn about Hopkins Renovation & Design's commitment to quality, integrity, and customer satisfaction in Atlanta. Your trusted local contractor."
+      },
+      "services": {
+        "title": "Atlanta Contractor Services | Hopkins",
+        "description": "Explore Hopkins Renovation & Design's comprehensive services: kitchen & bath remodels, basement finishing, decks, painting & more in Atlanta, GA."
+      },
+      "contact": {
+        "title": "Contact Hopkins Renovation & Design",
+        "description": "Contact Hopkins Renovation & Design for a free consultation on your next renovation project in Atlanta. Call 14045639716."
+      },
+      "reviews": {
+        "title": "Hopkins Renovation & Design Reviews",
+        "description": "Read reviews from satisfied Hopkins Renovation & Design customers in Atlanta. See why we're a trusted local contractor."
+      },
+      "service-areas": {
+        "title": "Service Areas | Hopkins Renovation & Design",
+        "description": "Hopkins Renovation & Design provides contracting services throughout the Atlanta metro area. See our service area today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "whole-house-renovations": "/images/service-whole-house-renovations.webp",
+      "painting-services": "/images/service-painting-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-renovations": {
+        "src": "/images/service-whole-house-renovations.webp",
+        "srcset": "/images/service-whole-house-renovations-400w.webp 400w, /images/service-whole-house-renovations-800w.webp 800w, /images/service-whole-house-renovations-1200w.webp 1200w, /images/service-whole-house-renovations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
